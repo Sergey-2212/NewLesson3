@@ -130,7 +130,7 @@ public class Main {
                 shiftArrayLeft(array, step);
             }
         } else {
-            System.out.println("Количество шагов первышает длину массива, уменьши количество шагов");
+            System.out.println("Количество шагов первышает длину массива!");
         }
     }
 
